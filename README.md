@@ -7,8 +7,13 @@ model_1610.hd5 GENERADOR DE VTs entrenado con BREF
 
 model_540.hd5 GENERADOR DE LPs entrenado con BREF
 
-MODELO FINAL
-
 model_2280.hd5 GENERADOR DE LPs entrenado con BREF- Resultados 30 Julio- Modelo con tanh
 
 model_2950.hd5 GENERADOR DE VTs entrenado con BREF- Resultados 19 Agosto- Modelo con tanh
+
+MODELO FINAL
+
+model_2290.hd5 GENERADOR DE LPs entrenado con BREF- Resultados 26 Agosto- Modelo con tanh
+
+model_2530.hd5 GENERADOR DE VTs entrenado con BREF- Resultados 26 Agosto- Modelo con tanh
+
